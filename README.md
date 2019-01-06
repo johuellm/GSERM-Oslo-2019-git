@@ -1,6 +1,6 @@
 # Longitudinal Data Analysis
 
-This is the Github repository for the January 2018 GSERM-Oslo course on Longitudinal Data Analysis.
+This is the Github repository for the January 2019 GSERM-Oslo course on Longitudinal Data Analysis.
 
 # Prerequisites
 
